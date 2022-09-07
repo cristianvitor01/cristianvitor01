@@ -41,4 +41,3 @@ Exploring new technologies and developing software solutions.
 
 [![Linkedin: Cristian Vitor](https://img.shields.io/badge/-cristianvitor01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-vitor-bb04b7202/)](https://www.linkedin.com/in/cristian-vitor-bb04b7202/)
 [![Gmail Badge](https://img.shields.io/badge/-cristianvitoralves@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cristianvitoralves@gmail.com)](mailto:cristianvitoralves@gmail.com)
-![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=flat&logo=fiverr&logoColor=white&link=https://br.fiverr.com/cristianvitor01)
