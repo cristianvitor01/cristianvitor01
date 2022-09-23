@@ -32,10 +32,7 @@ Exploring new technologies and developing software solutions.
 
 <br/>
 
-<a href="https://github.com/cristianvitor01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cristianvitor01&theme=dark&show_icons=true" />
-</a>
-
+**Contact me**
 <br/>
 <br/>
 
