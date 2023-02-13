@@ -7,8 +7,6 @@ Exploring new technologies and developing software solutions.
 
 <h3> My Skills </h3>
 
-**Applications and Data**
-
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
   ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -33,7 +31,6 @@ Exploring new technologies and developing software solutions.
 <br/>
 
 **Contact me**
-<br/>
 <br/>
 
 [![Linkedin: Cristian Vitor](https://img.shields.io/badge/-cristianvitor01-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-vitor-bb04b7202/)](https://www.linkedin.com/in/cristian-vitor-bb04b7202/)
