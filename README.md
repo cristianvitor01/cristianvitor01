@@ -1,5 +1,6 @@
 <h3> About Me </h3>
 
+- 🖥 &nbsp; Computer Science Student.
 - 🤔 &nbsp; 
 Exploring new technologies and developing software solutions.
 - 🌱 &nbsp; Studying Python and Frameworks.
